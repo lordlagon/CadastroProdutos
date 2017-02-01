@@ -1,8 +1,8 @@
 
 import java.util.Scanner;
-
 import br.com.agenda.dao.CategoriaDAO;
 import br.com.agenda.model.Categoria;
+
 public class CadastrarCategoria {
  
 public static void main(String args[]){

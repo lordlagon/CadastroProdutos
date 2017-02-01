@@ -69,7 +69,7 @@ public static void main(String args[]){
       
      ProdutoDAO.save(produto);
  
-	System.out.println("Produto cadastradp com sucesso");
+	System.out.println("Produto cadastrado com sucesso");
  
 
  }
